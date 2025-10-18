@@ -1,4 +1,4 @@
-# 💖 I Love You 3D Cube Animation 🚀  
+# 3D Cube Animation 🚀  
 *A rotating cube with a secret message, hover effects, and endless vibes – perfect for coders, lovers, and Gen Z chaos enthusiasts.*  
 
 ---
@@ -75,5 +75,6 @@ MIT License – do whatever, just credit me if you clone it for your crush.
 ---
 
 *(Keep the vibe fun and light – GitHub doesn’t have to be boring!)* 🦄
+
 
 
